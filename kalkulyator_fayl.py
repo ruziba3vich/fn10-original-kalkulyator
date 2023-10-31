@@ -1,5 +1,8 @@
-print("Hello FN10, Kalkulyator loyihasi")
+# colors = ["Qizil", "Qora", "Yashil", "Oq", "Sabzirang"]
+
+# colors = colors[0 : : len(colors) - 1]
+
+# print(colors)
 
 
 
-print("Hello FN10, Kalkulyator loyihasi")
